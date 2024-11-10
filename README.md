@@ -6,7 +6,7 @@ This project is a simple movie recommendation system implemented using React for
 
 The back-end API used in this project is available in the following repository:
 
-[Movie Recommendation API](https://github.com/SpackiGabriel/movie-recommendation-api)
+[Movie Recommendation API](https://github.com/pingfederate/movie-recommendation-api)
 
 The API is responsible for fetching movie data and providing recommendations based on user input. It serves as the backend for this front-end React application.
 
